@@ -5,7 +5,7 @@
     <title>Объединение массивов</title>
 </head>
 <body>
-<form action="../control/1.php" method="post">
+<form action="index.php?action=process" method="post">
     <label>Введите числа для массива 1 (через запятую):</label>
     <label>
         <input type="text" name="array1" required>
